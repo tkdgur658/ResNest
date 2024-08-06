@@ -26,6 +26,6 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `ResNest.py`: Python script file, containing the PyTorch implementation of the ConvNeXtV2
+- `ResNest.py`: Python script file, containing the PyTorch implementation of the ResNest
 - `ResNest_Block.png`: Figure file for network block
 - `README.md`: Markdown file explaining the model source code
